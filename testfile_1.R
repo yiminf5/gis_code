@@ -27,5 +27,3 @@ C
 <sup>Created on 2020-11-03 by the [reprex package](https://reprex.tidyverse.org) (v0.3.0)</sup>
   
 t=2+1
-
-t=2+1+1
