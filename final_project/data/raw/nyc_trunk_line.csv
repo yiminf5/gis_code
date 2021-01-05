@@ -1,0 +1,25 @@
+﻿primary_trunk_line,hexadecimal,route_name
+IND Eighth Avenue Line,#0039a6,A
+IND Eighth Avenue Line,#0039a6,C
+IND Eighth Avenue Line,#0039a6,E
+IND Sixth Avenue Line,#ff6319,B
+IND Sixth Avenue Line,#ff6319,D
+IND Sixth Avenue Line,#ff6319,F
+IND Sixth Avenue Line,#ff6319,M
+IND Crosstown Line,#6cbe45,G
+BMT Canarsie Line,#a7a9ac,L
+BMT Nassau Street Line,#996633,J
+BMT Nassau Street Line,#996633,Z
+BMT Broadway Line,#fccc0a,N
+BMT Broadway Line,#fccc0a,Q
+BMT Broadway Line,#fccc0a,R
+BMT Broadway Line,#fccc0a,W
+IRT Broadway–Seventh Avenue Line,#ee352e,1
+IRT Broadway–Seventh Avenue Line,#ee352e,2
+IRT Broadway–Seventh Avenue Line,#ee352e,3
+IRT Lexington Avenue Line,#00933c,4
+IRT Lexington Avenue Line,#00933c,5
+IRT Lexington Avenue Line,#00933c,6
+IRT Flushing Line,#b933ad,7
+IND Second Avenue Line,#00add0,T
+Shuttles,#808183,S
